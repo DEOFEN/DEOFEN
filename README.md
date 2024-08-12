@@ -2,17 +2,5 @@
 
 
 
-**DEOFEN/DEOFEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...![prof](https://github.com/user-attachments/assets/c12700b2-3d97-49c1-95f9-ac971b73e049)
-
-- 🌱 I’m currently learning ...![Uploading prof.drawio (2).svg…]()
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi👋, I'm Pushpendra Singh
+<hr/>
