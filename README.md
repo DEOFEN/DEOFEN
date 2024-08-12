@@ -2,5 +2,6 @@
 
 
 
-## <p align="center">Hi👋, I'm Pushpendra Singh<p>
-<hr/>
+## <p style="font-family: 'fira code';" align="center">Hi👋, I'm Pushpendra Singh</p>
+
+<p align="center">A passionate software engineer from India</p>
